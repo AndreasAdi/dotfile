@@ -1,0 +1,18 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10e7aa6966000166045643600001322860005
+clientId2=10e7aa6966000166045481100000884600006
+count=2
+program1=pulseaudio
+program2=/usr/bin/keepassxc
+restartCommand1=
+restartCommand2=/usr/bin/keepassxc,-session,10e7aa6966000166045481100000884600006_1660456521_424132
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=andreas
+userId2=andreas

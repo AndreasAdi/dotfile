@@ -1,0 +1,9 @@
+{
+    "initial_working_directory": "~",
+    "font_size_points": 12,
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "bash",
+    "editor_theme": "Material",
+    "jobs_tab_visibility": "shown",
+    "rmd_viewer_type": "pane"
+}

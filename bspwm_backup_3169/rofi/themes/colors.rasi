@@ -1,0 +1,26 @@
+* {
+background:			#0d0c12
+#0d0c12
+[100]#0d0c12
+#0d0c12
+#0d0c12
+#0d0c12
+#0d0c12;
+foreground:			#9ac2c3
+#9ac2c3
+#9ac2c3
+#9ac2c3
+#9ac2c3
+#9ac2c3
+#9ac2c3;
+selected:			#5E7391
+#5E7391;
+highlight:			#3A827F
+#3A827F;
+urgent:				#9D5469
+#9D5469;
+on:					#C86378
+#C86378;
+off:				#9D5469
+#9D5469;
+}

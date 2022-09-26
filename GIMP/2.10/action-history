@@ -1,0 +1,19 @@
+# GIMP action-history
+
+(history-item "image-new" 1)
+(history-item "file-open" 3)
+(history-item "edit-copy" 0)
+(history-item "edit-paste" 1)
+(history-item "file-export-as" 0)
+(history-item "tools-align" 0)
+(history-item "file-quit" 1)
+(history-item "edit-paste-as-new-image" 0)
+(history-item "dialogs-gradients" 0)
+(history-item "image-scale" 0)
+(history-item "layers-scale" 0)
+(history-item "text-tool-paste" 0)
+(history-item "tools-opacity-increase" 0)
+(history-item "edit-cut" 0)
+(history-item "tools-scale" 1)
+
+# end of action-history

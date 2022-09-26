@@ -1,0 +1,10 @@
+configuration {
+  show-icons:         false;
+  icon-theme:         "Numix-Apps";
+  terminal:           "alacritty";
+  cycle:              false;
+  hide-scrollbar:     true;
+  disable-history:    false;
+}
+//@theme "/home/andreas/.local/share/rofi/themes/nord-oneline.rasi"
+@theme "/home/andreas/.local/share/rofi/themes/nord-oneline.rasi"

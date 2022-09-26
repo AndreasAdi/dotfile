@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: datadome="WJJF7hM_Ikk5xXcdWYYnuxjPv1y2UsUe.cb3DfWnOe8sW6S~AXiuXRKEGSrV7peZeJKo7sHHX8P9wEcY3o8bImhRelj0AjWZLFVzM0p_vMMW68XhZckjcW95X8qg3-r"; path="/"; domain=".mlb.com"; path_spec; domain_dot; secure; expires="2023-07-24 02:14:52Z"; SameSite=Lax; version=0
+Set-Cookie3: DT=DI08wizRRl5RImDnsUxC3YC3g; path="/"; domain="ids.mlb.com"; path_spec; secure; expires="2024-06-23 17:39:37Z"; version=0
+Set-Cookie3: proximity_2b293f0c76a1f89ef8eb29b45653f1e3="eyJ6aXAiOiJERUYiLCJwMnMiOiI4Rkd5M2lzWXpEM0dwcDRMSThTaElRIiwicDJjIjoxMDAwLCJ2ZXIiOiIxIiwiZW5jIjoiQTI1NkdDTSIsImFsZyI6IlBCRVMyLUhTNTEyK0EyNTZLVyJ9.cD0R984V82dRmpfUOVQQ2qcji36u0kD9hbVjXzLDfmIJlM97JlSPFA.z70MDQQo_v4ocVnl.xqFoYnB3wlRGWAeWTWvoOJIJmkhH5GJSDuDNv66DII-Yqpw2u97XTT46lLWthxwNgTDcjVRMrnW-dOWNFx_WrtMkCYAEMh_zDTPE0xTSZDOfcNoYSyKQ6F94jYLYYuts-OISMFAvZSzqxwBIRjJ3gROHDofV5-SaPi8WAP7YpdvR7w.q4krbVsm4MozklScItxQvg"; path="/"; domain="ids.mlb.com"; path_spec; secure; expires="2023-07-24 02:14:52Z"; version=0
+Set-Cookie3: __cflb=02DiuGWqHCH6UqSYHBTFL85PUn3Lu36d1q9jFrTAhtgsW; path="/"; domain="www.mlb.com"; path_spec; expires="2022-07-25 01:14:46Z"; HttpOnly=None; SameSite=Lax; version=0
